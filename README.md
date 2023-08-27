@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nespo (Mdz Al-Naim)
+- 👋 Hi, I’m @nespo (Md Al-Naim)
 - 👀 I’m interested in ... Nothing
 - 🌱 I’m currently studying ... IOT
 - 💞️ I’m looking to collaborate on ... any IOT, ML project
