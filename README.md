@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @nespo
+- 👋 Hi, I’m @nespo (Mdz Al-Naim)
 - 👀 I’m interested in ... Nothing
-- 🌱 I’m currently learning ... Nothing
-- 💞️ I’m looking to collaborate on ... anything
-- 📫 How to reach me ... No way
+- 🌱 I’m currently studying ... IOT
+- 💞️ I’m looking to collaborate on ... any IOT, ML project
 
 <!---
 nespo/nespo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
